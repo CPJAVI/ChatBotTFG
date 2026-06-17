@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+pandas
+pdfplumber
+scikit-learn
+python-docx
+beautifulsoup4
+openpyxl
